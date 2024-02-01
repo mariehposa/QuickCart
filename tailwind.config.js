@@ -9,8 +9,8 @@ module.exports = {
     extend: {
       colors: {
         primary: "#FC2E20",
-        link: "#FD7F20"
-      }
+        link: "#FD7F20",
+      },
     },
   },
   plugins: [],
