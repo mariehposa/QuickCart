@@ -15,7 +15,7 @@ const Hero = () => {
           from the comfort of your home and have them delivered right to your
           doorstep.
         </p>
-        <div className="flex gap-8 mt-10">
+        <div className="flex gap-8 mt-8">
           <button className="bg-primary text-white px-6 py-2 rounded-full flex gap-2 items-center">
             Order now <RightIcon className="w-4 h-4" />
           </button>
@@ -26,11 +26,11 @@ const Hero = () => {
       </div>
       <div className="w-2/4">
         <Image
-          src="/grocery.jpg"
+          src="/grocery.png"
           alt="groceries"
           layout="fill"
           objectFit="contain"
-          className="!relative rounded"
+          className="!relative rounded !h-80"
         />
       </div>
     </section>
