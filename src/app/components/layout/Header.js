@@ -11,13 +11,13 @@ const Header = () => {
         <Link href={""}>Menu</Link>
         <Link href={""}>About</Link>
         <Link href={""}>Contact</Link>
-      </nav>
       <Link
         className="bg-primary text-white px-6 py-2 rounded-full ml-6"
         href={""}
       >
         Login
       </Link>
+      </nav>
     </header>
   );
 };
