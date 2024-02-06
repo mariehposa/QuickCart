@@ -9,7 +9,9 @@ module.exports = {
     extend: {
       colors: {
         primary: "#18A558",
+        secondary: "#cbcdcb",
         link: "#21B6A8",
+        price: "#DF362D"
       },
     },
   },
