@@ -10,7 +10,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg text-gray-500">
           Tired of the hassle of grocery shopping? Say goodbye to long lines and
-          crowded aisles – GrocHub is here to revolutionize your shopping
+          crowded aisles – QuickCart is here to revolutionize your shopping
           experience. With just a few clicks, you can order all your groceries
           from the comfort of your home and have them delivered right to your
           doorstep.

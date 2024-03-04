@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="flex items-center justify-between">
       <Link className="text-primary font-bold text-5xl" href={""}>
-        GrocHub
+        QuickCart
       </Link>
       <nav className="flex gap-8 text-gray-500 font-medium items-center">
         <Link href={""}>Home</Link>
